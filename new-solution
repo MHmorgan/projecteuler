@@ -44,7 +44,9 @@ def main():
     pass
 
 
+start = Arrow.now()
 main()
+echo(f'Execution time: {start.humanize(only_distance=True)}')
 '''
 
 main()
