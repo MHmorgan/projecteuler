@@ -1,4 +1,6 @@
-#!/usr/bin/env python3.11
+#!/usr/bin/env python3
+# 
+# TODO: get problem name from project euler website
 
 import os
 import re
